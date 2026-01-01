@@ -7,8 +7,8 @@
 // @match        https://yande.re/post/show/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=yande.re
 // @grant        none
-// @downloadURL  https://github.com/espilioto/yandereOpenHighres/raw/refs/heads/main/anidbOpenHighres.user.js
-// @updateURL    https://github.com/espilioto/yandereOpenHighres/raw/refs/heads/main/anidbOpenHighres.user.js
+// @downloadURL  https://github.com/espilioto/yandereOpenHighres/raw/refs/heads/main/yandereOpenHighres.user.js
+// @updateURL    https://github.com/espilioto/yandereOpenHighres/raw/refs/heads/main/yandereOpenHighres.user.js
 // @homepage     https://github.com/espilioto/yandereOpenHighres
 // ==/UserScript==
 
@@ -25,8 +25,6 @@
   link.id = 'open-fullsize';
   link.href = highres.href;
   link.textContent = '🖥️ Open fullsize';
-  link.target = '_blank';
-  link.rel = 'noopener';
 
   menu.appendChild(link);
 })();
