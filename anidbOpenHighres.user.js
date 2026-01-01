@@ -7,9 +7,9 @@
 // @match        https://yande.re/post/show/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=yande.re
 // @grant        none
-// @downloadURL   https://github.com/espilioto/yandereOpenHighres/raw/refs/heads/main/anidbOpenHighres.user.js
-// @updateURL     https://github.com/espilioto/yandereOpenHighres/raw/refs/heads/main/anidbOpenHighres.user.js
-// @homepage      https://github.com/espilioto/yandereOpenHighres
+// @downloadURL  https://github.com/espilioto/yandereOpenHighres/raw/refs/heads/main/anidbOpenHighres.user.js
+// @updateURL    https://github.com/espilioto/yandereOpenHighres/raw/refs/heads/main/anidbOpenHighres.user.js
+// @homepage     https://github.com/espilioto/yandereOpenHighres
 // ==/UserScript==
 
 (function () {
